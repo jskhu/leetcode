@@ -1,3 +1,7 @@
+[1]: image.png
+# Problem: 788
+## Code
+```python
 import math
 
 class Solution(object):
@@ -22,3 +26,6 @@ class Solution(object):
                 count += 1
                 
         return count
+```
+## Proof of Problem (POP)
+![alt_text][1]
