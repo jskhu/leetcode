@@ -24,7 +24,7 @@ class Solution(object):
                     contains_valid_digit = True
             if contains_valid_digit:
                 count += 1
-                
+
         return count
 ```
 ## Proof of Problem (POP)
