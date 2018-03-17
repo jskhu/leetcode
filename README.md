@@ -5,4 +5,7 @@ All the leetcode problems I've done for accountability
 788, 789, 791, 300
 
 ## Week 2
-792, 794, 795, 451x
+792, 794, 795, 451
+
+## Week 3
+796, 797, 799, 22
